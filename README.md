@@ -54,8 +54,8 @@ Features include:
 1. Clone the repository:
 
 ```bash
-git clone <repository_URL>
-cd backend
+git clone https://github.com/YoungTooller/Online-Notes-backend.git
+cd Online-Notes-backend
 ```
 
 
