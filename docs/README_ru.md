@@ -45,8 +45,8 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone <URL_репозитория>
-cd backend
+git clone https://github.com/YoungTooller/Online-Notes-backend.git
+cd Online-Notes-backend
 ```
 
 
